@@ -6,4 +6,13 @@
   <artifactId>aadhaarbridge-aua-packet-creator-lib</artifactId>
   <version>1.0</version>
   <description>POM was created from install:install-file</description>
+  
+  <repositories>
+    <repository>
+    <id>git-praveen062</id>
+    <name>praveen062's Git based repo</name>
+    <url>https://github.com/praveen062/AadhaarPacketCreator/tree/master/</url>
+</repository>
+</repositories>
+  
 </project>
